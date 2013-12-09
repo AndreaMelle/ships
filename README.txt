@@ -1,0 +1,1 @@
+Simple game to explore HTML5 canvas and Javascript OOP
